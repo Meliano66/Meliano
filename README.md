@@ -1,8 +1,6 @@
-# 👋 Salut, moi c’est Hakim Andre  
+# 👋 Salut, moi c’est Meliano
 
 📍 Perpignan, France  
-📞 +33 6 61 71 42 03  
-✉️ hakim.andre.lolo@gmail.com  
 
 ---
 
@@ -63,7 +61,7 @@ Développeur passionné avec une solide expérience dans la création, la gestio
 
 ## 📊 Stats GitHub  
 
-![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=radical)  
+![Meliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoIci&layout=compact&theme=radical)  
 
