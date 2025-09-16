@@ -61,9 +61,9 @@ Développeur passionné avec une solide expérience dans la création, la gestio
 
 ## 📊 Stats GitHub  
 
-![Meliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=radical)  
+![Meliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meliano&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoIci&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meliano&layout=compact&theme=radical)  
 
 ---
 
